@@ -1,0 +1,24 @@
+{
+  "name": "BloodSponser",
+  "displayName": "BloodSponser",
+   "expo": {
+    "name": "BIKI KUMAR SAH",
+    "icon": "./path/to/your/app-icon.png",
+    "splash":{
+      "image":"./test.png",
+      "resizeMode":"cover",
+      "backgroundColor":"#ffffff"
+
+    },
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "ios": {
+      "bundleIdentifier": "NEPAL BLOOD DONER ORIGANIZATION.Blood_Sponser",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "NEPAL BLOOD DONER ORIGANIZATION.Blood_Sponser",
+      "versionCode": 1
+    }
+  }
+}
